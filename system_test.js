@@ -1,0 +1,1 @@
+console.log("Smart City System : Ready For Development!");

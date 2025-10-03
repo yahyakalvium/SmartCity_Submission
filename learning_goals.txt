@@ -1,0 +1,5 @@
+1st personal learning goal : To learn how to use git and github and master those.
+
+2nd personal learning goal : To master the use of API.
+
+3rd personal learning goal : To learn how deployment of api

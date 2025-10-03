@@ -1,1 +1,1 @@
-console.log("Smart City System : Ready For Development!");
+console.log ("Smart City System: Ready For Development!");
